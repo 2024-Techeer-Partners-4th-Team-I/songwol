@@ -1,0 +1,13 @@
+public class Sample {
+  public static void main(String[] args) {
+    System.out.println("Hello java");
+  }
+}
+
+/*
+
+자료형 : int, long, double, boolean, char, String 등등
+변수 설정시 : 숫자 시작X, 특수문자 사용X, 자료형 등 사용X
+임시로 쓰일 시 : (순서) i, j, k, m, n / (문자) c, d, e
+
+*/
