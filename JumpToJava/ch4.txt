@@ -1,0 +1,40 @@
+if (조건문) {
+    <수행할 문장>;
+    ...
+}
+else if(hasCard) {
+    System.out.println("택시를 타고 가라");
+}
+else {
+    <수행할 문장>;
+    ...
+}
+
+
+switch(입력변수) {
+    case 입력값1: ...
+         break;
+    case 입력값2: ...
+         break;
+    ...
+    default: ...
+         break;
+}
+
+
+while (조건문) {
+    <수행할 문장1>;
+    <수행할 문장2>;
+    <수행할 문장3>;
+    ...
+}
+
+
+for (초기치; 조건문; 증가치) {
+    ...
+}
+
+
+for (type 변수명: iterate) {
+    body-of-loop
+}
